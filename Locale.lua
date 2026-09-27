@@ -23,6 +23,8 @@ local EN={
     COMBAT_LOCK = "Unavailable during combat.",
     COLUMNS = "Columns",
     SHOW_SEARCH = "Show search field",
+    AUTO_SELL_JUNK = "Automatically sell poor-quality items",
+    SOLD_JUNK = "Sold junk",
     OPEN_BAG = "Open ComfyBag",
     FOREVER_NOTE = "0.1 covers normal bags 0–4 only. Bank, keyring and advanced sorting wait for Forever testing.",
 }
@@ -48,6 +50,8 @@ local DE={
     COMBAT_LOCK = "Im Kampf nicht verfügbar.",
     COLUMNS = "Spalten",
     SHOW_SEARCH = "Suchfeld anzeigen",
+    AUTO_SELL_JUNK = "Graue Gegenstände automatisch verkaufen",
+    SOLD_JUNK = "Schrott verkauft",
     OPEN_BAG = "ComfyBag öffnen",
     FOREVER_NOTE = "0.1 umfasst nur die normalen Taschen 0–4. Bank, Schlüsselbund und Sortierung folgen nach Forever-Tests.",
 }
