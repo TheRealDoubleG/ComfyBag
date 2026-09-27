@@ -1,6 +1,6 @@
 # ComfyBag
 
-**Version 0.3 – Beta**  
+**Version 0.4 – Beta**  
 **Target: World of Warcraft: Forever 1.60.1 / Interface 16001**  
 Author: **TheRealDoubleG**  
 Discord: **the.real.double.g**
@@ -10,6 +10,10 @@ Unified inventory window with search for WoW Forever.
 A single searchable window for normal character bags 0–4.
 
 ComfyBag is developed specifically for **WoW: Forever**. Retail/Modern WoW, Midnight and WoW Classic are not compatibility targets.
+
+## 0.4 Beta
+- Added optional automatic selling of poor-quality items at merchants.
+- Kept inventory-specific automation in ComfyBag instead of ComfyQoL.
 
 ## 0.1 Beta
 - Added one combined normal-inventory window.
