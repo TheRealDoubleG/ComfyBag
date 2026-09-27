@@ -1,5 +1,9 @@
 # ComfyBag Changelog
 
+## 0.3 Beta – 28.09.2026
+- Registered ComfyBag in Blizzard's native AddOns settings list with a button to open the full Comfy settings window.
+
+
 ## 0.2 Beta – 27.09.2026
 - Fixed Background opacity so 0% fully removes the Comfy window background while the border can remain.
 - Aligned the shared Load / copy control with its profile dropdown.
