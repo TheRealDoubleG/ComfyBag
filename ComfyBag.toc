@@ -1,0 +1,17 @@
+## Interface: 16001
+## Title: ComfyBag
+## Notes: Unified inventory window with search for WoW Forever.
+## Notes-deDE: Gemeinsames Inventarfenster mit Suche für WoW Forever.
+## Author: TheRealDoubleG
+## Version: 0.1
+## SavedVariables: ComfyBagDB
+## X-Website: https://github.com/TheRealDoubleG/ComfyBag
+## X-ComfySuite: true
+## X-ComfyUI: 2
+## IconTexture: Interface\\Icons\\INV_Misc_Bag_10
+
+Locale.lua
+Core.lua
+SharedSettings.lua
+Bags.lua
+Options.lua
