@@ -3,7 +3,7 @@ local ADDON_NAME = ...
 ComfyBag = ComfyBag or {}
 local A = ComfyBag
 A.name = ADDON_NAME or "ComfyBag"
-A.version = "0.3"
+A.version = "0.4"
 A.buildDate = "27.09.2026"
 A.status = "Beta"
 A.gameVersion = "WoW Forever 1.60.1"
@@ -18,6 +18,7 @@ local defaults = {
     bag = {
         columns = 10,
         showSearch = true,
+        autoSellJunk = true,
     },
     bagWindow = {
         point = "CENTER",
