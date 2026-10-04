@@ -3,7 +3,7 @@
 ## Notes: Unified inventory window with search for WoW Forever.
 ## Notes-deDE: Gemeinsames Inventarfenster mit Suche für WoW Forever.
 ## Author: TheRealDoubleG
-## Version: 0.5
+## Version: 0.6
 ## SavedVariables: ComfyBagDB
 ## X-Website: https://github.com/TheRealDoubleG/ComfyBag
 ## X-ComfySuite: true
@@ -15,3 +15,4 @@ Core.lua
 SharedSettings.lua
 Bags.lua
 Options.lua
+Enhancements.lua
